@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/satyam/Downloads/testng jar/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyam/Downloads/testng jar/jquery-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyam/Downloads/testng jar/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyam/Downloads/testng jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyam/Downloads/testng jar/testng-7.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
